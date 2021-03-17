@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pujzza
+- 👀 I’m interested in developing web application using Angular, .NET and SQL Server
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me by mail spujas3@gmail.com / instagram: @pujzza
